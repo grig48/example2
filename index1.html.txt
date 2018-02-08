@@ -3,8 +3,8 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1251">
-<title>Блочная верстка</title>
-<link href="style.css" rel="stylesheet" type="text/css">
+<title>ГЃГ«Г®Г·Г­Г Гї ГўГҐГ°Г±ГІГЄГ </title>
+ 
 </head>
 
 <body>
@@ -21,7 +21,7 @@
         <p>gbdbvc</p>
     </div>
 
-    <!-- Правая колонка -->
+    <!-- ГЏГ°Г ГўГ Гї ГЄГ®Г«Г®Г­ГЄГ  -->
     <div id="right">
         <h3>right Content</h3>
         <p>The background color on this div will only show for the length of the content.
@@ -31,7 +31,7 @@
         <p>#mainContent div if it will always contain more content.</p>
         <p>&nbsp;</p>
     </div>
-    <!-- Конец правой колонки -->
+    <!-- ГЉГ®Г­ГҐГ¶ ГЇГ°Г ГўГ®Г© ГЄГ®Г«Г®Г­ГЄГЁ -->
 
     <div id="content">
         <h1>Main Content </h1>
